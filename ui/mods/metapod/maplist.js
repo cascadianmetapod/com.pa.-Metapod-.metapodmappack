@@ -9,6 +9,7 @@
 	"coui://ui/mods/metapod/systems/ring_world.pas",
 	"coui://ui/mods/metapod/systems/veggie_system.pas",
 	"coui://ui/mods/metapod/systems/river_bank.pas",
-	"coui://ui/mods/metapod/systems/orbits_6.pas",
+	"coui://ui/mods/metapod/systems/the_progenitor.pas",
+	"coui://ui/mods/metapod/systems/rocky.pas",
 	"coui://ui/mods/metapod/systems/sprouts.pas"
 ]);
