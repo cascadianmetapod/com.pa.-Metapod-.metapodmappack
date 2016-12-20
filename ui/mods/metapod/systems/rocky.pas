@@ -1,5 +1,5 @@
 {
-    "name": "Charcoal",
+    "name": "RockyRockNugget",
     "players": [
         2,
         10
@@ -7,7 +7,7 @@
 	"creator": "(Metapod)",
     "version": "1",
     "date": "2016/07/02",
-    "description":"A barren rock, with random spawns and a fast load time.",
+    "description":"A barren rock with balanced spawns and evenly dispersed metal",
 	"planets": [
         {
             "name": "Chronosfear",

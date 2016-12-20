@@ -1,12 +1,12 @@
 {
   "context": "client",
   "identifier": "com.pa.metapod).metapodmappack",
-  "display_name": "Metapod's Amazing Map Pack!",
+  "display_name": "The Amazing Map Pack!",
   "description": "A collection of fun, exciting and challenging maps for all your custom game needs.",
   "author": "(Metapod)",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "build": "89755",
-  "date": "2016/06/22",
+  "date": "2016/12/20",
   "signature": "not yet implemented",
   "forum": "https://forums.uberent.com/threads/metapod-s-map-pack.71315/",
   "icon": "http://i.imgur.com/8H0EoFx.png",
@@ -17,7 +17,9 @@
 	  "system",
 	  "planets",
 	  "planet",
-	  "systems"
+	  "systems",
+	  "metapod",
+	  "biome"
     ],
     "load_planet": [
         "coui://ui/mods/Metapod/maplist.js"
@@ -25,6 +27,16 @@
 	"priority": 100,
     "enabled": true,
     "dependencies": [
-        "com.pa.conundrum.cShareSystems"
+        "com.pa.conundrum.cShareSystems",
+		"com.wondible.pa.devastated_metal_biome.client",
+		"com.wondible.pa.devastated_metal_biome.server",
+		"com.wondible.pa.hidden_biomes",
+		"com.wondible.pa.junkyard_biome.client",
+		"com.wondible.pa.junkyard_biome.server",
+		"com.wondible.pa.peppermint_planet.client",
+		"com.wondible.pa.peppermint_planet.server",
+		"uk.pa.tetctree.server",
+		"uk.pa.tetctree"
+		
     ]
 }
