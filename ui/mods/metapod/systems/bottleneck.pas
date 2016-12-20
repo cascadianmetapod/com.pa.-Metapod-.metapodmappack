@@ -1,8 +1,5 @@
 {
     "name": "Bottleneck",
-	"players": [
-        2,
-        2
 	"creator": "(Metapod)",
     "version": "8",
     "date": "2016/03/18",
