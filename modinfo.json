@@ -27,16 +27,8 @@
 	"priority": 100,
     "enabled": true,
     "dependencies": [
-        "com.pa.conundrum.cShareSystems",
-		"com.wondible.pa.devastated_metal_biome.client",
-		"com.wondible.pa.devastated_metal_biome.server",
-		"com.wondible.pa.hidden_biomes",
-		"com.wondible.pa.junkyard_biome.client",
-		"com.wondible.pa.junkyard_biome.server",
-		"com.wondible.pa.peppermint_planet.client",
-		"com.wondible.pa.peppermint_planet.server",
-		"uk.pa.tetctree.server",
-		"uk.pa.tetctree"
+        "com.pa.conundrum.cShareSystems"
+		
 		
     ]
 }
