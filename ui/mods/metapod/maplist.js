@@ -1,4 +1,5 @@
 ﻿cShareSystems.load_pas("(Metapod)", [
+	"coui://ui/mods/metapod/systems/12planet.pas",
 	"coui://ui/mods/metapod/systems/rocky.pas",
 	"coui://ui/mods/metapod/systems/cornucopia.pas",
 	
